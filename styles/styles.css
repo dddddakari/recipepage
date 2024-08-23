@@ -1,0 +1,38 @@
+body {
+  background-color: rgb(102, 128, 102);
+  color:rgb(63, 52, 30); 
+  text-align: center;
+}
+
+header, h3, h1 {
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    border-bottom: 4px dotted;
+  }
+
+table, th, td {
+    border: 3px solid rgb(63, 52, 30); 
+    margin-left: auto;
+    margin-right: auto;
+    padding: 8px;
+
+  }
+
+  table {
+    border-collapse: collapse;
+  }
+
+  p, table {
+      font-family: "Oswald", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 300px;
+      font-style: normal;
+    }
+  
+  #peaStew {
+    color: rgb(80, 46, 5);
+  }
+  #peaStew:hover {
+     color: rgb(11, 86, 13);
+  }
